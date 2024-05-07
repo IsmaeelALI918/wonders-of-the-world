@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<header>The wonders of the world</header>
+<body style="background-color:#e3f7fc;">
+<h1 style="color:#638499;">The Wonders of the World</h1>
+<h1 style="text-align=center;"></h1>
+
+<div>
+<h2>The Great Pyramis of Giza</h2>
+<img src="https://cdn.kastatic.org/ka-perseus-images/dc4e721228c6404058249e6c453628885694fd82.jpg" width="500">
+</div>
+
+</body>
+</html>
