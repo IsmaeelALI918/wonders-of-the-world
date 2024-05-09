@@ -1,14 +1,71 @@
 <!DOCTYPE html>
 <html>
-<header>The wonders of the world</header>
-<body style="background-color:#e3f7fc;">
-<h1 style="color:#638499;">The Wonders of the World</h1>
-<h1 style="text-align=center;"></h1>
+    <header>
+        <title>The Wonders of the World</title>
+    </header>
+    <body style="background-color:#e3f7fc;">
+        <h1 style="color:#6af3a8;">The Wonders of the World</h1>
+        <style>
+            h1{
+                text-align: center;
+                background-color: steelblue;
+            }
+            h2{
+            text-align: center;
+            }
+        </style>
 
-<div>
-<h2>The Great Pyramis of Giza</h2>
-<img src="https://cdn.kastatic.org/ka-perseus-images/dc4e721228c6404058249e6c453628885694fd82.jpg" width="500">
-</div>
+        <div style="text-align: center;" >
+            <h2>Thev Pyramids of Giza</h2>
+            <img src="https://cdn.kastatic.org/ka-perseus-images/dc4e721228c6404058249e6c453628885694fd82.jpg" width="500">
+        </div>
 
+        <div style="text-align: center;" >
+            <h2>Petra</h2>
+            <img src="https://i.natgeofe.com/n/69e2cf60-ad59-4d20-bdd1-dc96f40ab4e8/petra-world-heritage-jordan_3x2.jpg" width="500">
+        </div>
+
+        <div style="text-align: center;" >
+            <h2>The Great Wall of China</h2>
+            <img src="https://www.telegraph.co.uk/content/dam/Travel/leadAssets/28/00/wall4_2800060a.jpg?imwidth=680" width="500">
+        </div>
+
+        <div style="text-align: center;" >
+            <h2>Chichen Itza</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg" width="500">
+        </div>
+
+        <div style="text-align: center;" >
+            <h2>Machu Picchu</h2>
+            <img src="https://cdn.britannica.com/30/94530-050-99493FEA/Machu-Picchu.jpg" width="500">
+        </div>
+
+        <div style="text-align: center;" >
+            <h2>The Colosseum</h2>
+            <img src="https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg" width="500">
+        </div>
+
+        <div style="text-align: center;" >
+            <h2>Taj Mahal</h2>
+            <img src="https://assets.editorial.aetnd.com/uploads/2011/06/taj-mahal-gettyimages-463924915.jpg?width=768" width="500">
+
+            <div style="text-align: center;" >
+                <h2>Christ The Redeemer</h2>
+                <img src="https://trips-southamerica.com/wp-content/uploads/Cristo.jpg" width="500">
+            </div>
+            
+            <div style="text-align: center;">
+                <ul style="list-style-position: inside;">
+                    <li><a href="file://stamfordparktrust.ac.uk/asf/Student23/a3IsmaeelALI/wonders%20of%20the%20world%20HTML/the%20Pyramids%20of%20Giza.html">The Pyramids Of Giza</a></li>
+                    <li><a href="">Petra</a></li>
+                    <li><a href="">The Great Wall Of China</a></li>
+                    <li><a href="">Chichen Itza</a></li>
+                    <li><a href="">Machu Picchu</a></li>
+                    <li><a href="">The Colosseum</a></li>
+                    <li><a href="">Taj Mahal</a></li>
+                    <li><a href="">Christ the Redeemer</a></li>
+                </ul>
+            </div>
+        
 </body>
 </html>
