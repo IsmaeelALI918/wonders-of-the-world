@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>The Pyramids of Giza</title>
+    </header>
+    <style>
+        h1{
+            background-color: steelblue;
+            color:#6af3a8 ;
+            text-align: center;
+        }
+        div{
+            text-align: center;
+        }
+    </style>
+    <body style="background-color: #e3f7fc;">
+        <h1>The Pyramids Of Giza</h1>
+        <img src="https://cdn.kastatic.org/ka-perseus-images/dc4e721228c6404058249e6c453628885694fd82.jpg" style="text-align: center;" width="500">
+        <div>
+            <h2>What are the Pyramids of Giza?</h2>
+            <p>The pyramids of Giza were royal tombs built for three different pharaohs. The northernmost and oldest pyramid of the group was built for Khufu (Greek: Cheops), the second king of the 4th dynasty. Called the Great Pyramid, it is the largest of the three.</p>
+        </div>
+
+        <div>
+            <h2>The Pyramids at Giza were built to endure an eternity—but how?</h2>
+            <p>
+                The Giza Pyramids, built to endure an eternity, have done just that. The monumental tombs are relics of Egypt's Old Kingdom era and were constructed some 4,500 years ago.
+                
+                Egypt's pharaohs expected to become gods in the afterlife. To prepare for the next world they erected temples to the gods and massive pyramid tombs for themselves—filled with all the things each ruler would need to guide and sustain himself in the next world.
+                
+                Each of the three massive pyramids is but one part of a larger complex, including a palace, temples, solar boat pits, and other features. Here is what to know about who built them, how they were built—and the treasures we have discovered inside.</p>
+        </div>
+
+        <div>
+            <h2>Who built the Pyramids of Giza?</h2>
+            <p>Pharaoh Khufu was the first Egyptian king to build a pyramid in Giza, a project he began in circa 2550 B.C. His Great Pyramid is the largest in Giza and originally towered some 481 feet (147 meters) above the plateau—it’s a bit shorter now with its smooth casing stones long gone. Its estimated 2.3 million stone blocks each weigh an average of 2.5 to 15 tons.
+
+                Khufu's son, Khafre, built the second pyramid at Giza, circa 2520 B.C. His necropolis, or burial ground, stands out on the landscape because it also includes the Sphinx, a mysterious limestone monument with the body of a lion and the head of a pharaoh. The Sphinx, which before the 1800s spent thousands of years buried in the sand with only its head visible, may stand sentinel for the pharaohs tomb complex, although there is no definitive proof that he built it.
+                
+                (Who did build the Spinx? 4,500 years later, we took a fresh look.)
+                
+                The third of the Giza Pyramids is considerably smaller than the first two—less than half their height at about 218 feet. Built by Khafres son Menkaure circa 2490 B.C. the pyramids elaborate complex includes two separate temples connected by a long causeway, and three individual queens’ pyramids. Menkaure’s chambers include niche decorations unique to Giza and a vaulted ceiling in his burial chamber itself. The pharaohs elaborate sarcophagus was lost at sea near Gibraltar in 1838.</p>
+        </div>
+
+        <div>
+            <h2>How were the pyramids built?</h2>
+            <p>The ancient engineering feats at Giza were so impressive that even today scientists and engineers can't be sure exactly how the pyramids were built. Yet they have learned much about the people who built them and the political power necessary to make it happen.
+
+
+                The builders were skilled Egyptian workers who lived in a nearby temporary city sprawling over some 17 acres. The remains of bakeries and piles of animal bones show that they were very well fed for their labor. Archaeological digs on the fascinating site have revealed a highly organized community, rich with resources, that must have been backed by strong central authority.</p>
+        </div>
+        
+    </body>
+</html>
